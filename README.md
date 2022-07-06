@@ -1,6 +1,3 @@
-# Abhijith-B
-My personal repository
-
 <h1 align="center">Hi 👋, I'm Abhijith B</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
